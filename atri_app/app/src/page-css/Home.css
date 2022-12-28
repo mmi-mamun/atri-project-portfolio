@@ -1,0 +1,58 @@
+.p-Home.Flex5 {
+display: flex;
+justify-content: center;
+}
+.p-Home.Flex1 {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-left: 15px;
+padding-right: 15px;
+width: 80%;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.p-Home.Flex2 {
+display: flex;
+}
+.p-Home.Flex3 {
+display: flex;
+justify-content: space-between;
+align-items: center;
+column-gap: 20px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-Home.Flex6 {
+display: flex;
+column-gap: 5px;
+}
+.p-Home.TextBox3 {
+font-family: Prosto One;
+font-weight: 700;
+font-size: 32px;
+}
+.p-Home.TextBox4 {
+;
+}
+.p-Home.TextBox5 {
+;
+}
+.p-Home.TextBox6 {
+;
+}
+.p-Home.TextBox7 {
+;
+}
+.p-Home.TextBox8 {
+;
+}
+.p-Home.Image1 {
+width: 10%;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+padding-left: 5px;
+min-width: 5px;
+max-width: 25px;
+}
