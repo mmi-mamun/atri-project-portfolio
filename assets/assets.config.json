@@ -19,5 +19,14 @@
   },
   "logo-4.png": {
     "mime": "image/png"
+  },
+  "service-1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service-2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service-3.svg": {
+    "mime": "image/svg+xml"
   }
 }

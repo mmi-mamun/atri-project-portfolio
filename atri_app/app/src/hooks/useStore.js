@@ -85,6 +85,42 @@ const desktopModeProps = {
     "Flex33": {
       "callbacks": {}
     },
+    "Div26": {
+      "callbacks": {}
+    },
+    "Flex40": {
+      "callbacks": {}
+    },
+    "Flex41": {
+      "callbacks": {}
+    },
+    "Div32": {
+      "callbacks": {}
+    },
+    "Div33": {
+      "callbacks": {}
+    },
+    "Flex42": {
+      "callbacks": {}
+    },
+    "Flex43": {
+      "callbacks": {}
+    },
+    "Flex48": {
+      "callbacks": {}
+    },
+    "Flex46": {
+      "callbacks": {}
+    },
+    "Flex49": {
+      "callbacks": {}
+    },
+    "Flex47": {
+      "callbacks": {}
+    },
+    "Flex50": {
+      "callbacks": {}
+    },
     "TextBox3": {
       "custom": {
         "text": "Portfolio"
@@ -316,6 +352,249 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/logo-4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox61": {
+      "custom": {
+        "text": "S E R V I C E S"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox62": {
+      "custom": {
+        "text": "Design that solves problems, one product at a time."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image13": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/service-1.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox65": {
+      "custom": {
+        "text": "What I can do for you"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox66": {
+      "custom": {
+        "text": "Faster, better products that your users love. Here's all the services I provide:"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox67": {
+      "custom": {
+        "text": "- Front-end Development"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox68": {
+      "custom": {
+        "text": "- Web and Mobile App Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox77": {
+      "custom": {
+        "text": "- Design Strategy"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image14": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/service-2.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox69": {
+      "custom": {
+        "text": "Applications I'm fluent in"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox70": {
+      "custom": {
+        "text": "Every designer needs the right tools to do the perfect job. Thankfully, I'm multilingual."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox71": {
+      "custom": {
+        "text": "- Figma"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox72": {
+      "custom": {
+        "text": "- Webflow"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox78": {
+      "custom": {
+        "text": "- Sketch"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image15": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/service-3.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox73": {
+      "custom": {
+        "text": "What you can expect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox74": {
+      "custom": {
+        "text": "- Efficient and maintainable"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox75": {
+      "custom": {
+        "text": "- Device and user friendly"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox76": {
+      "custom": {
+        "text": "I design products that are more pretty. I make them shippable and usable."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox79": {
+      "custom": {
+        "text": "- Clean and functional"
       },
       "callbacks": {
         "onClick": [
