@@ -163,6 +163,57 @@ const desktopModeProps = {
     "Flex65": {
       "callbacks": {}
     },
+    "Div45": {
+      "callbacks": {}
+    },
+    "Flex81": {
+      "callbacks": {}
+    },
+    "Flex82": {
+      "callbacks": {}
+    },
+    "Flex84": {
+      "callbacks": {}
+    },
+    "Flex85": {
+      "callbacks": {}
+    },
+    "Flex83": {
+      "callbacks": {}
+    },
+    "Flex87": {
+      "callbacks": {}
+    },
+    "Flex88": {
+      "callbacks": {}
+    },
+    "Flex90": {
+      "callbacks": {}
+    },
+    "Flex94": {
+      "callbacks": {}
+    },
+    "Flex93": {
+      "callbacks": {}
+    },
+    "Flex96": {
+      "callbacks": {}
+    },
+    "Flex95": {
+      "callbacks": {}
+    },
+    "Flex98": {
+      "callbacks": {}
+    },
+    "Flex97": {
+      "callbacks": {}
+    },
+    "Flex100": {
+      "callbacks": {}
+    },
+    "Flex99": {
+      "callbacks": {}
+    },
     "TextBox3": {
       "custom": {
         "text": "Portfolio"
@@ -883,6 +934,444 @@ const desktopModeProps = {
     "TextBox94": {
       "custom": {
         "text": "My clients are proof."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox110": {
+      "custom": {
+        "text": "Latest Blogs"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image27": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/thin-arrow-right-icon.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox111": {
+      "custom": {
+        "text": "View all"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox112": {
+      "custom": {
+        "text": "B"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox113": {
+      "custom": {
+        "text": "L"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox114": {
+      "custom": {
+        "text": "O"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox115": {
+      "custom": {
+        "text": "G"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox117": {
+      "custom": {
+        "text": "S"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox121": {
+      "custom": {
+        "text": "April 16, 2021 ' 6 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox123": {
+      "custom": {
+        "text": "Design tips for designers, that cover everything you need"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox125": {
+      "custom": {
+        "text": "______________________________________________________________________________________________"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image28": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/thin-arrow-right-icon.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox124": {
+      "custom": {
+        "text": "Read this article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox131": {
+      "custom": {
+        "text": "______________________________________________________________________________________________"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox132": {
+      "custom": {
+        "text": "How to build rapport with your web design clients"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox133": {
+      "custom": {
+        "text": "April 16, 2021 ' 5 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox130": {
+      "custom": {
+        "text": "Read this article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "Image30": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/thin-arrow-right-icon.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox135": {
+      "custom": {
+        "text": "______________________________________________________________________________________________"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox136": {
+      "custom": {
+        "text": "Top 6 free website mockup tools 2021"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox137": {
+      "custom": {
+        "text": "April 16, 2021 ' 5 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox134": {
+      "custom": {
+        "text": "Read this article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "Image31": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/thin-arrow-right-icon.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox139": {
+      "custom": {
+        "text": "______________________________________________________________________________________________"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox140": {
+      "custom": {
+        "text": "Logo design trends to avoid in 2021"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox141": {
+      "custom": {
+        "text": "April 16, 2021 ' 7 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox138": {
+      "custom": {
+        "text": "Read this article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "Image32": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/thin-arrow-right-icon.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox144": {
+      "custom": {
+        "text": "22 best UI design tools"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox145": {
+      "custom": {
+        "text": "April 16, 2021 ' 7 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox162": {
+      "custom": {
+        "text": "______________________________________________________________________________________________"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox163": {
+      "custom": {
+        "text": "______________________________________________________________________________________________"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox142": {
+      "custom": {
+        "text": "Read this article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "Image33": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/thin-arrow-right-icon.svg"
       },
       "callbacks": {
         "onClick": [
