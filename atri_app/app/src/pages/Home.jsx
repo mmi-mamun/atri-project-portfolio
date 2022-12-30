@@ -10,7 +10,7 @@ import { TextBox } from "@atrilabs/react-component-manifests/src/manifests/TextB
 import { Image } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
 import { Button } from "@atrilabs/react-component-manifests/src/manifests/Button/Button.tsx";
 import { Link } from "@atrilabs/react-component-manifests/src/manifests/Link/Link.tsx";
-import { useFlex5Cb, useFlex1Cb, useFlex2Cb, useFlex3Cb, useFlex6Cb, useFlex15Cb, useFlex14Cb, useFlex20Cb, useFlex21Cb, useFlex22Cb, useDiv19Cb, useTextBox3Cb, useTextBox4Cb, useTextBox5Cb, useTextBox6Cb, useTextBox7Cb, useTextBox8Cb, useImage1Cb, useTextBox39Cb, useTextBox40Cb, useTextBox41Cb, useButton1Cb, useLink1Cb, useImage5Cb, useImage6Cb } from "../page-cbs/Home";
+import { useFlex5Cb, useFlex1Cb, useFlex2Cb, useFlex3Cb, useFlex6Cb, useFlex15Cb, useFlex14Cb, useFlex20Cb, useFlex21Cb, useFlex22Cb, useDiv19Cb, useFlex32Cb, useFlex31Cb, useFlex30Cb, useFlex33Cb, useTextBox3Cb, useTextBox4Cb, useTextBox5Cb, useTextBox6Cb, useTextBox7Cb, useTextBox8Cb, useImage1Cb, useTextBox39Cb, useTextBox40Cb, useTextBox41Cb, useButton1Cb, useLink1Cb, useImage5Cb, useImage6Cb, useTextBox54Cb, useImage7Cb, useImage8Cb, useImage9Cb, useImage11Cb } from "../page-cbs/Home";
 import "../page-css/Home.css";
 import "../custom/Home";
 
@@ -63,6 +63,18 @@ const Flex22Cb = useFlex22Cb()
 const Div19Props = useStore((state)=>state["Home"]["Div19"]);
 const Div19IoProps = useIoStore((state)=>state["Home"]["Div19"]);
 const Div19Cb = useDiv19Cb()
+const Flex32Props = useStore((state)=>state["Home"]["Flex32"]);
+const Flex32IoProps = useIoStore((state)=>state["Home"]["Flex32"]);
+const Flex32Cb = useFlex32Cb()
+const Flex31Props = useStore((state)=>state["Home"]["Flex31"]);
+const Flex31IoProps = useIoStore((state)=>state["Home"]["Flex31"]);
+const Flex31Cb = useFlex31Cb()
+const Flex30Props = useStore((state)=>state["Home"]["Flex30"]);
+const Flex30IoProps = useIoStore((state)=>state["Home"]["Flex30"]);
+const Flex30Cb = useFlex30Cb()
+const Flex33Props = useStore((state)=>state["Home"]["Flex33"]);
+const Flex33IoProps = useIoStore((state)=>state["Home"]["Flex33"]);
+const Flex33Cb = useFlex33Cb()
 const TextBox3Props = useStore((state)=>state["Home"]["TextBox3"]);
 const TextBox3IoProps = useIoStore((state)=>state["Home"]["TextBox3"]);
 const TextBox3Cb = useTextBox3Cb()
@@ -105,6 +117,21 @@ const Image5Cb = useImage5Cb()
 const Image6Props = useStore((state)=>state["Home"]["Image6"]);
 const Image6IoProps = useIoStore((state)=>state["Home"]["Image6"]);
 const Image6Cb = useImage6Cb()
+const TextBox54Props = useStore((state)=>state["Home"]["TextBox54"]);
+const TextBox54IoProps = useIoStore((state)=>state["Home"]["TextBox54"]);
+const TextBox54Cb = useTextBox54Cb()
+const Image7Props = useStore((state)=>state["Home"]["Image7"]);
+const Image7IoProps = useIoStore((state)=>state["Home"]["Image7"]);
+const Image7Cb = useImage7Cb()
+const Image8Props = useStore((state)=>state["Home"]["Image8"]);
+const Image8IoProps = useIoStore((state)=>state["Home"]["Image8"]);
+const Image8Cb = useImage8Cb()
+const Image9Props = useStore((state)=>state["Home"]["Image9"]);
+const Image9IoProps = useIoStore((state)=>state["Home"]["Image9"]);
+const Image9Cb = useImage9Cb()
+const Image11Props = useStore((state)=>state["Home"]["Image11"]);
+const Image11IoProps = useIoStore((state)=>state["Home"]["Image11"]);
+const Image11Cb = useImage11Cb()
 
   return (<>
   <Flex className="p-Home Flex5 bpt" {...Flex5Props} {...Flex5Cb} {...Flex5IoProps}>
@@ -141,6 +168,19 @@ const Image6Cb = useImage6Cb()
 <Div className="p-Home Div19 bpt" {...Div19Props} {...Div19Cb} {...Div19IoProps}>
 <Image className="p-Home Image6 bpt" {...Image6Props} {...Image6Cb} {...Image6IoProps}/>
 </Div>
+</Flex>
+</Flex>
+<Flex className="p-Home Flex32 bpt" {...Flex32Props} {...Flex32Cb} {...Flex32IoProps}>
+<Flex className="p-Home Flex31 bpt" {...Flex31Props} {...Flex31Cb} {...Flex31IoProps}>
+<Flex className="p-Home Flex30 bpt" {...Flex30Props} {...Flex30Cb} {...Flex30IoProps}>
+<TextBox className="p-Home TextBox54 bpt" {...TextBox54Props} {...TextBox54Cb} {...TextBox54IoProps}/>
+<Flex className="p-Home Flex33 bpt" {...Flex33Props} {...Flex33Cb} {...Flex33IoProps}>
+<Image className="p-Home Image8 bpt" {...Image8Props} {...Image8Cb} {...Image8IoProps}/>
+<Image className="p-Home Image7 bpt" {...Image7Props} {...Image7Cb} {...Image7IoProps}/>
+<Image className="p-Home Image9 bpt" {...Image9Props} {...Image9Cb} {...Image9IoProps}/>
+<Image className="p-Home Image11 bpt" {...Image11Props} {...Image11Cb} {...Image11IoProps}/>
+</Flex>
+</Flex>
 </Flex>
 </Flex>
   </>);
