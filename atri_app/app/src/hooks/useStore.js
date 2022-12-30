@@ -214,6 +214,21 @@ const desktopModeProps = {
     "Flex99": {
       "callbacks": {}
     },
+    "Div46": {
+      "callbacks": {}
+    },
+    "Flex113": {
+      "callbacks": {}
+    },
+    "Flex112": {
+      "callbacks": {}
+    },
+    "Flex118": {
+      "callbacks": {}
+    },
+    "Flex119": {
+      "callbacks": {}
+    },
     "TextBox3": {
       "custom": {
         "text": "Portfolio"
@@ -1372,6 +1387,42 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/thin-arrow-right-icon.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox174": {
+      "custom": {
+        "text": "That's me!"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox175": {
+      "custom": {
+        "text": "PRODUCT DESIGNER"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox176": {
+      "custom": {
+        "text": "Over the past 12 years, I've worked with a diverse range of clients, from startups to Fortune 500 companies. I love crafting interfaces that delight users and help businesses grow."
       },
       "callbacks": {
         "onClick": [
