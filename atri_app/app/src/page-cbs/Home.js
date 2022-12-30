@@ -2160,22 +2160,6 @@ export function useFlex100Cb() {
 }), [])
 	return { onClick }
 }
-export function useTextBox162Cb() {
-	const onClick = useCallback(callbackFactory("TextBox162", "Home", "/", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
 export function useTextBox163Cb() {
 	const onClick = useCallback(callbackFactory("TextBox163", "Home", "/", "onClick", 
 			{
