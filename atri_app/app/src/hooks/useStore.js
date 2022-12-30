@@ -265,6 +265,30 @@ const desktopModeProps = {
     "Flex130": {
       "callbacks": {}
     },
+    "Flex136": {
+      "callbacks": {}
+    },
+    "Flex135": {
+      "callbacks": {}
+    },
+    "Flex133": {
+      "callbacks": {}
+    },
+    "Flex137": {
+      "callbacks": {}
+    },
+    "Flex139": {
+      "callbacks": {}
+    },
+    "Flex138": {
+      "callbacks": {}
+    },
+    "Flex134": {
+      "callbacks": {}
+    },
+    "Div60": {
+      "callbacks": {}
+    },
     "TextBox3": {
       "custom": {
         "text": "Portfolio"
@@ -1751,6 +1775,199 @@ const desktopModeProps = {
     "TextBox185": {
       "custom": {
         "text": "Q"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox220": {
+      "custom": {
+        "text": "Portfolio Creator"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox221": {
+      "custom": {
+        "text": " 4353 Delaware Avenue, San Francisco, USA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image47": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/gmail%20icon.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox227": {
+      "custom": {
+        "text": "hi@gmail.com"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox223": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox224": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox225": {
+      "custom": {
+        "text": "Experience"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox234": {
+      "custom": {
+        "text": "Projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox235": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox236": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox237": {
+      "custom": {
+        "text": "Twitter"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox243": {
+      "custom": {
+        "text": "Instagram"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox244": {
+      "custom": {
+        "text": "Dribbble"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox218": {
+      "custom": {
+        "text": "Let's get on a call."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox219": {
+      "custom": {
+        "text": "Ready to make something kickass?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox245": {
+      "custom": {
+        "text": "© All rights reserved. Conversionflow. Powered by Webflow / Image License Info / Instructions / Changelog / Style Guide"
       },
       "callbacks": {
         "onClick": [
