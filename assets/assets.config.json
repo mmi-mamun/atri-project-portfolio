@@ -28,5 +28,14 @@
   },
   "service-3.svg": {
     "mime": "image/svg+xml"
+  },
+  "project-1.png": {
+    "mime": "image/png"
+  },
+  "project-2.png": {
+    "mime": "image/png"
+  },
+  "project-3.png": {
+    "mime": "image/png"
   }
 }
