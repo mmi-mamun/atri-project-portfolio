@@ -55,6 +55,24 @@ const desktopModeProps = {
     "Flex6": {
       "callbacks": {}
     },
+    "Flex15": {
+      "callbacks": {}
+    },
+    "Flex14": {
+      "callbacks": {}
+    },
+    "Flex20": {
+      "callbacks": {}
+    },
+    "Flex21": {
+      "callbacks": {}
+    },
+    "Flex22": {
+      "callbacks": {}
+    },
+    "Div19": {
+      "callbacks": {}
+    },
     "TextBox3": {
       "custom": {
         "text": "Portfolio"
@@ -131,6 +149,97 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/thin-arrow-right-icon.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox39": {
+      "custom": {
+        "text": "that delight and inspire people."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox40": {
+      "custom": {
+        "text": "Hi! I’m Mamun, a product designer based in Berlin. I create user-friendly interfaces for fast-growing startups."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox41": {
+      "custom": {
+        "text": "I design products"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button1": {
+      "custom": {
+        "text": "Book  a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link1": {
+      "custom": {
+        "text": "Download CV",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "external",
+              "url": "https://drive.google.com/file/d/12hc-Pe-_zynBjRqzoLlEEVmojrbA3eG_/view?usp=sharing",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    },
+    "Image5": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/thin-arrow-right-icon.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image6": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/diu-removebg.png"
       },
       "callbacks": {
         "onClick": [

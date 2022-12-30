@@ -8,7 +8,7 @@ justify-content: space-between;
 align-items: center;
 padding-left: 15px;
 padding-right: 15px;
-width: 80%;
+width: 90%;
 padding-top: 10px;
 padding-bottom: 10px;
 }
@@ -26,6 +26,45 @@ font-weight: 600;
 .p-Home.Flex6 {
 display: flex;
 column-gap: 5px;
+}
+.p-Home.Flex15 {
+display: flex;
+justify-content: center;
+}
+.p-Home.Flex14 {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-left: 15px;
+padding-right: 15px;
+width: 90%;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.p-Home.Flex20 {
+display: flex;
+width: 55%;
+flex-direction: column;
+}
+.p-Home.Flex21 {
+display: flex;
+column-gap: 10%;
+padding-left: 10px;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.p-Home.Flex22 {
+display: flex;
+column-gap: 10px;
+align-items: center;
+justify-content: flex-start;
+padding-left: 5px;
+width: 40%;
+}
+.p-Home.Div19 {
+width: 43%;
+padding-left: 10px;
+align-self: center;
 }
 .p-Home.TextBox3 {
 font-family: Prosto One;
@@ -55,4 +94,64 @@ padding-right: 5px;
 padding-left: 5px;
 min-width: 5px;
 max-width: 25px;
+}
+.p-Home.TextBox39 {
+color: #000000;
+margin-bottom: 15px;
+font-family: IBM Plex Sans;
+font-size: 5vw;
+font-weight: 600;
+padding-left: 10px;
+padding-right: 10px;
+}
+.p-Home.TextBox40 {
+color: #2a2727;
+font-family: IBM Plex Sans;
+font-size: 1.8vw;
+font-weight: 500;
+padding-left: 10px;
+padding-right: 10px;
+margin-top: ;
+margin-bottom: 20px;
+}
+.p-Home.TextBox41 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 5vw;
+padding-left: 10px;
+padding-right: 10px;
+margin-top: 10px;
+margin-bottom: ;
+color: #ed2dc0;
+}
+.p-Home.Button1 {
+color: #fff;
+background-color: #000f;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+outline-color: ;
+width: 30%;
+}
+.p-Home.Link1 {
+align-self: center;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.Image5 {
+width: 15px;
+}
+.p-Home.Image6 {
+width: 90%;
 }

@@ -172,3 +172,175 @@ export function useFlex6Cb() {
 }), [])
 	return { onClick }
 }
+export function useFlex14Cb() {
+	const onClick = useCallback(callbackFactory("Flex14", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex15Cb() {
+	const onClick = useCallback(callbackFactory("Flex15", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex20Cb() {
+	const onClick = useCallback(callbackFactory("Flex20", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useDiv19Cb() {
+	const onClick = useCallback(callbackFactory("Div19", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox39Cb() {
+	const onClick = useCallback(callbackFactory("TextBox39", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox40Cb() {
+	const onClick = useCallback(callbackFactory("TextBox40", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox41Cb() {
+	const onClick = useCallback(callbackFactory("TextBox41", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex21Cb() {
+	const onClick = useCallback(callbackFactory("Flex21", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useButton1Cb() {
+	const onClick = useCallback(callbackFactory("Button1", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useLink1Cb() {
+
+	return {  }
+}
+export function useFlex22Cb() {
+	const onClick = useCallback(callbackFactory("Flex22", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage5Cb() {
+	const onClick = useCallback(callbackFactory("Image5", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage6Cb() {
+	const onClick = useCallback(callbackFactory("Image6", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
